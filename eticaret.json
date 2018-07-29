@@ -1,0 +1,32 @@
+﻿{
+"clients":[
+{
+"ürün_id":1;
+"ürün_adi":"mont",
+"ürün_aciklamasi":"deri mont",
+"ürün_fiyati":12,
+"ürün_resmi":""
+},
+{
+"ürün_id":2;
+"ürün_adi":"ceket",
+"ürün_aciklamasi":"klasik model",
+"ürün_fiyati":56,
+"ürün_resmi":""
+},
+{
+"ürün_id":3;
+"ürün_adi":"pantolan",
+"ürün_aciklamasi":"dar paça",
+"ürün_fiyati":50,
+"ürün_resmi":""
+},
+{
+"ürün_id":4;
+"ürün_adi":"gömlek",
+"ürün_aciklamasi":"v yaka",
+"ürün_fiyati":80,
+"ürün_resmi":""
+}
+]
+}
